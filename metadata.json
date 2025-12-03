@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Quiz Master",
+  "description": "A sophisticated quiz generator powered by Google Gemini, capable of creating questions with syllabus grids (kisi-kisi) and answer keys based on the Merdeka Curriculum standards.",
+  "requestFramePermissions": []
+}
